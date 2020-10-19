@@ -16,6 +16,7 @@ In this business problem, I will use King County House Sales dataset to analyze.
 * A PowerPoint and pdf for presentation
 * A 5 minutes recording to review
 * https://youtu.be/dHvQY3RFP58
+* https://road2dataanalyst.blogspot.com/2020/10/multiple-regression-on-house.html
 
 # Recommendation
 * For buyers: When buying a house, we should more concern about the powerful grade ranking and house size including footage of the house, number of bathrooms, and so on because these features are most related to the house price
