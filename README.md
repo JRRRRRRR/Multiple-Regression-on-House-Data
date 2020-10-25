@@ -17,7 +17,7 @@ For this project, I'll be working with the King County House Sales dataset.
 * Data collecting, Data cleaning, Exploratory data analysis, and Visualization are all in the Jupyter Notebook.
 * A PowerPoint and pdf for presentation
 * A 5 minutes recording to review
-* https://youtu.be/dHvQY3RFP58
+* https://youtu.be/FNqwf82lGvs
 
 # Recommendation
 * For buyers: When buying a house, we should more concern about the powerful grade ranking and house size including footage of the house, number of bathrooms, and so on because these features are most related to the house price. If the fund is enough, Bellevue and Newcastle are good neighborhood to invest because the good grade of them. Otherwise, Federal Way and Kent are alternative choices. When buying houses which located at Seattle, we should be careful because there are a lot of old houses located there.
