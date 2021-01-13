@@ -1,5 +1,4 @@
-# Phase-2-Project
-Multiple Regression on House Data
+# Multiple Regression on House Data
 # Introduction
 For this project, I'll be working with the King County House Sales dataset.
 * A house buyer assigns me a task about the house in King County. He wants to buy a house in this area but doesn't have any ideas about the housing market. And he has some preferred features in his mind, he wants to have a predicted price so that he can prepare for that.
