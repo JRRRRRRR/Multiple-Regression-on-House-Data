@@ -27,7 +27,7 @@ For this project, I'll be working with the King County House Sales dataset.
 * Interactions: Find some interactions on the model to see whether helpful to improve the R-square
 * Kurtosis: Find some ways to reduce kurtosis to make the distribution more normal
 * Detailed Prediction: Give a price prediction to the buyer based on his prefer features using the model
-* More analyses: Try another business case such as helping a house sellergg
+* More analyses: Try another business case such as helping a house seller
  
 # Summary
 From this project, I had the experience that applying multiple regression in our real world. It provided me a chance to review my knowledge and skills. I found my weakness and make a plan to improve those.
